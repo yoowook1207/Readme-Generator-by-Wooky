@@ -18,13 +18,7 @@
   
   ## Installation
 
-  ```
-  npm init
-  npm install inquirer
-  ...
-  node index.js
-  ```
-  Clone or download repo from my github project link to the local machine, and run index.js with node.js
+  Clone or download repo from my github project link to the local machine, and run index.js with node.js. The application requires installation of node.js and npm inquirer.
 
   ## Usage
   ![alt text](https://raw.githubusercontent.com/yoowook1207/Readme-Generator-by-Wooky/feature/screenshot/examplescs.png)<br />
