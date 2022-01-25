@@ -78,7 +78,7 @@ module.exports = fromUserData => {
   ${data.installation}
 
   ## Usage
-
+  ![alt text](${data.screenshot})<br />
   ${data.instructions}
 
   ${renderLicenseSection(license)}

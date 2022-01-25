@@ -1,11 +1,12 @@
 
   # Readme Generator
 
-  ![alt text](https://img.shields.io/static/v1?label=LICENSE&message=MIT_License&color=blue)
+  ![alt text](https://img.shields.io/static/v1?label=LICENSE&message=Existing_Projects_and_Communities&color=yellow)
 
   ## Description
-
-  this oboije bfjfjihor fkjgoodivhi erlifgs cofogjs giodofj
+  
+  https://github.com/yoowook1207/Readme-Generator-by-Wooky<br />
+  The application was built with JavaScript and node.js. The application generate readme.md file with user inputs through command lines.
 
   ## Table of Contents
   * [Installation](#installation)
@@ -17,30 +18,30 @@
   
   ## Installation
 
-  first ,second ,theritfd
+  Clone or download repo from my github project link to the local machine, and run index.js with node.js
 
   ## Usage
-
-  you can use this app to make a readme.md for your project
+  ![alt text](https://raw.githubusercontent.com/yoowook1207/Readme-Generator-by-Wooky/feature/screenshot/examplescs.png)<br />
+  Clone or download repo from my github project link to the local machine, and run index.js with node.js
 
   
   ## License
-  MIT License
-  <br />https://choosealicense.com/licenses/mit/
+  Existing projects and communities
+  <br />https://choosealicense.com/community/
   
 
   ## Contributing
 
-  semi
+  Semi Kim
 
   ## Tests
 
-  youtube.com
+  https://www.youtube.com/watch?v=EqoU1PodQQ4
 
   ## Questions
 
-  send me an email<br />
-  yoowook1207
+  If you have any questions about the project, please send me an email!<br />
+  yoowook1207@gmail.com
   
 
-  &copy; 2022 by SW
+  &copy; 2022 by Sung Wook https://github.com/yoowook1207
