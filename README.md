@@ -1,7 +1,7 @@
 
-  # Readme Generator
+  # Wooky's Readme Generator
 
-  ![alt text](https://img.shields.io/static/v1?label=LICENSE&message=Existing_Projects_and_Communities&color=yellow)
+  ![alt text](https://img.shields.io/static/v1?label=LICENSE&message=GNU_GPL_v3.0&color=green)
 
   ## Description
   
@@ -24,29 +24,32 @@
   ...
   node index.js
   ```
-
-  ## Usage
-  ![alt text](https://raw.githubusercontent.com/yoowook1207/Readme-Generator-by-Wooky/feature/screenshot/examplescs.png)<br />
   Clone or download repo from my github project link to the local machine, and run index.js with node.js
 
+
+  ## Usage
+  
+  Use this application to make a readme.md for your project. Make sure to have a child directory called "dist" to the folder 'index.js' located.
+
+  ![alt text](https://raw.githubusercontent.com/yoowook1207/Readme-Generator-by-Wooky/feature/screenshot/examplescs.png)<br />
   
   ## License
-  Existing projects and communities
-  <br />https://choosealicense.com/community/
+  GNU GPL v3.0
+  <br />https://choosealicense.com/licenses/gpl-3.0/
   
 
   ## Contributing
 
-  Sungwook Yoo
+  John Doe
 
   ## Tests
 
-  https://drive.google.com/file/d/1htZPx8NQ1MJR_ZZWhTMGaZ9HYtjCLTAO/view
-  
+  http://www.example.com/index.html
+
   ## Questions
 
   If you have any questions about the project, please send me an email!<br />
   yoowook1207@gmail.com
   
 
-  &copy; 2022 by Sung Wook https://github.com/yoowook1207
+  &copy; 2022 by Sung Wook Yoo https://github.com/yoowook1207

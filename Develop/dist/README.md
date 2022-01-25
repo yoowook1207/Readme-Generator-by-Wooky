@@ -18,6 +18,12 @@
   
   ## Installation
 
+  ```
+  npm init
+  npm install inquirer
+  ...
+  node index.js
+  ```
   Clone or download repo from my github project link to the local machine, and run index.js with node.js
 
   ## Usage
