@@ -52,9 +52,30 @@ function renderLicenseNav(license) {
   return`* [License](#license)`
 }
 
+function screenShotSection(confirmScreenshot, screenshotURL) {
+  if(!confirmScreenshot) {
+    return ''
+  }
+  return `![alt text](${screenshotURL})<br />`
+}
+
+function contributed(confirmContributor, contributor) {
+  if(!confirmContributor) {
+    return `N/A`
+  }
+  return `${contributor}`
+}
+
+function testVideo(confirmTest, videoURL) {
+  if(!confirmTest) {
+    return `N/A`
+  }
+  return `${videoURL}`
+}
+
 // Create a function to generate markdown for README
 module.exports = fromUserData => {
-  const {license, ...data} = fromUserData
+  const {screenshot, license, confirmScreenshot, confirmContributing, confirmTest, contributor, demonstration, ...data} = fromUserData
   return `
   # ${data.projectName}
 
@@ -78,18 +99,18 @@ module.exports = fromUserData => {
   ${data.installation}
 
   ## Usage
-  ![alt text](${data.screenshot})<br />
+  ${screenShotSection(confirmScreenshot, screenshot)}
   ${data.instructions}
 
   ${renderLicenseSection(license)}
 
   ## Contributing
 
-  ${data.contributor}
+  ${contributed(confirmContributing, contributor)}
 
   ## Tests
 
-  ${data.demonstration}
+  ${testVideo(confirmTest, demonstration)}
 
   ## Questions
 

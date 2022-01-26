@@ -121,9 +121,9 @@ const questions = [
         when: ({ confirmScreenshot }) => confirmScreenshot
       },
     {
-        type: 'checkbox',
+        type: 'list',
         name: 'license',
-        message: 'What license do you want to give for this project? (Check only one or nothing)',
+        message: 'What license do you want to give for this project?',
         choices: ['Existing projects and communities', 'MIT License', 'GNU GPL v3.0']
     },
     

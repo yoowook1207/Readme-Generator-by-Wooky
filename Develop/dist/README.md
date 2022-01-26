@@ -1,12 +1,12 @@
 
-  # Wooky's Readme Generator
+  # hi
 
-  ![alt text](https://img.shields.io/static/v1?label=LICENSE&message=GNU_GPL_v3.0&color=green)
+  ![alt text](https://img.shields.io/static/v1?label=LICENSE&message=Existing_Projects_and_Communities&color=yellow)
 
   ## Description
   
-  https://github.com/yoowook1207/Readme-Generator-by-Wooky<br />
-  The application was built with JavaScript and node.js. The application generate readme.md file with user inputs through command lines.
+  hi<br />
+  hi
 
   ## Table of Contents
   * [Installation](#installation)
@@ -18,30 +18,30 @@
   
   ## Installation
 
-  Clone or download repo from my github project link to the local machine, and run index.js with node.js. The application requires installation of node.js and npm inquirer.
+  hi
 
   ## Usage
   ![alt text](https://raw.githubusercontent.com/yoowook1207/Readme-Generator-by-Wooky/feature/screenshot/examplescs.png)<br />
-  Use this application to make a readme.md for your project. Make sure to have a child directory called "dist" to the folder 'index.js' located.
+  hi
 
   
   ## License
-  GNU GPL v3.0
-  <br />https://choosealicense.com/licenses/gpl-3.0/
+  Existing projects and communities
+  <br />https://choosealicense.com/community/
   
 
   ## Contributing
 
-  John Doe
+  Semi Kim
 
   ## Tests
 
-  http://www.example.com/index.html
+  https://drive.google.com/file/d/1VekMZK4Pchs2z0foNAxSnTcUElOJDRFw/view
 
   ## Questions
 
-  If you have any questions about the project, please send me an email!<br />
-  yoowook1207@gmail.com
+  hi<br />
+  hi
   
 
-  &copy; 2022 by Sung Wook Yoo https://github.com/yoowook1207
+  &copy; 2022 by hi https://github.com/hi
